@@ -1,0 +1,2217 @@
+/*--media query--*/
+@media screen and  (max-width:320px){
+
+
+     /*--Home--*/
+     .navbar-light .navbar-brand {
+       
+        margin: 0 auto;
+        text-align: center;
+    }
+    .navbar-light .navbar .nav-toggle{
+
+        display: block;
+    }
+    .navbar-light .navbar-left {
+        display: none;
+    }
+    .slide-sec .content h1 {
+        font-size: 1.4rem;
+    }
+
+    form .form-group {
+        margin-bottom: 1rem;
+       
+    }
+
+    .discoverjobs-sec .container-fluid{
+
+        padding-right:15px;
+        padding-left:15px;
+    
+      }
+      .discoverjobs-sec {
+
+        text-align:center; 
+
+    }
+
+    .principlejobs-sec iframe {
+        width: 100%;
+    }
+    .companyjobs-sec .jobs-content{
+
+        padding: 0;
+    
+    }
+    .agentsjobs-sec .col-lg-4,
+    .successstory-sec .col-lg-3,
+    footer  .col-lg-3,
+    footer  .col-lg-8,
+    footer  .col-lg-2{
+
+        margin-bottom: 30px
+
+
+    }
+    .agentsjobs-sec .content {
+       
+        width: 100%;
+    }
+    .agentsjobs-sec .content .inline {
+        display: block !important; 
+    
+    }
+    .countryjobs-sec .image {
+
+        width: 100%;
+    }
+
+    
+    /*--//Home--*/
+    /*--search box--*/
+
+    .search-box form {
+       
+        width:95%;
+        
+    }
+    .navbar-search{
+
+        display: block;
+    }
+    /*--//search box--*/
+    /*--Login--*/
+    .login-sec .content form .inline {
+       
+        display: block;
+        text-align: right;
+    }
+
+    .login-sec .content form .line-1 {
+
+        float: unset;
+    }
+
+    .login-sec .content form .line-2{
+
+        float: unset;
+    }
+    .login-sec .content form .form-group:nth-child(3) {
+         margin-bottom:2rem !important;
+    }
+      /*--//Login--*/
+      /*--Register--*/
+    .register-sec .content form .file {
+
+
+        text-align:right;
+    }
+
+    .register-sec .submit-button {
+        width: 100%;
+    }
+
+    .register-sec .col-lg-1{
+
+        margin: 0 auto;
+        display: block;
+        text-align: center;
+
+
+    }
+    .register-sec .bonds__title {
+       
+        margin:5px 16px 0 0; 
+        line-height: 1.1;
+    }
+    /*--//Register--*/
+    /*--search jobs--*/
+
+    .job-search-sec form .form-row {
+      
+        right: 0 ; 
+    }
+    .job-role-sec .col-lg-6{
+
+        margin-bottom: 30px;
+
+    }
+    .new-jobs-sec .row, 
+    .find-jobs-sec .row,
+     .agencies-job-sec .row, 
+     .search-country-sec .row, 
+     .get-cv-sec .row {
+        width: 100%;
+        margin: 0 auto;
+    }
+    .new-jobs-sec .col-lg-6,
+    .find-jobs-sec .col-lg-3,
+    .agencies-job-sec .col-lg-4{
+
+        margin-bottom: 30px;
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .new-jobs-sec .content ul li {
+        display: block !important;
+     }
+     
+    
+    .get-cv-sec .image{
+        margin: 0 auto;
+        text-align: center;
+    }
+    .get-cv-sec .col-lg-6, 
+    .get-cv-sec .col-lg-4 {
+        padding-left: 15px;
+        padding-right: 15px;
+        margin: 0 auto 30px;
+        display: block;
+        text-align: center;
+    }
+    .get-cv-sec .cv-text h5,
+    .get-cv-sec .cv-text span{
+      
+        text-align: center !important;
+    }
+    .get-cv-sec .cv-button {
+        
+        margin-top: 0 !important;
+        
+    }
+     /*--//search jobs--*/
+
+     /*--country jobs--*/
+     .country-jobs-sec .container-fluid {
+        padding-left: 20px; 
+        padding-right: 20px; 
+     }
+      
+      .city-jobs-sec .col-lg-3{
+
+        margin-bottom: 30px;
+       
+   
+    }
+    /*--//country jobs--*/
+    /*--adverise jobs--*/
+    .company-employee-sec form .form-group {
+        display:block;
+        margin:0 0 15px 0;
+        width: 100%;
+    }
+
+    .find-jobs-sec .content .p-text {
+        margin-top: 0;
+    }
+      .page-link {
+        padding: 8px 10px;
+       }
+       .advertise-jobs-sec .col-lg-2 {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    /*--//adverise jobs--*/
+     /*--cv services jobs--*/
+     .nav-tabs {
+       
+        width: 100%;
+        display: block;
+    }
+    
+      .nav-tabs .nav-link {
+      
+        padding: 15px 15px;
+    }
+    .nav-tabs .nav-item:nth-child(2), 
+    .nav-tabs .nav-item:nth-child(3),
+    .nav-tabs .nav-item:nth-child(4),
+    .nav-tabs .nav-item:nth-child(5) {
+
+        border-right:1px solid #F0880F;
+    }
+
+
+    .cv-write-content .col-md-12,
+    .help-contact-sec  .col-md-12{
+
+        margin-bottom: 30px;
+
+    }
+    .cv-write-sec .content form label small {
+
+        float: unset !important;
+        margin-top: 0.5em;
+        padding-right:0;
+        display: block;
+        
+    }
+    .carousel-control-prev-icon,
+    .carousel-control-next-icon{
+
+        height:50px;
+    }
+    .sidebar {
+
+        display: none;
+    }
+    .bottombar {
+
+      display: block;
+      
+    }
+    footer .footer-cv {
+        padding-bottom: 100px;
+    }
+   /*--//cv services jobs--*/
+   /*--cv  design--*/
+   .first-owljobs{
+
+    display: none;
+    
+     }
+   .second-owljobs{
+
+    display: block;
+
+    }
+    .second-owljobs .owl2 .image img {
+       
+        width: 70%;
+    }
+    .cv-work-sec ul li {
+         display:block;
+        margin:0 0 30px 0;
+    } 
+    /*--//cv design--*/
+    /*--cv message--*/
+    .wr-msg-sec .content .recommended-content .image img {
+
+        width:100%; 
+    }
+    /*--//cv message--*/
+    /*--blog--*/
+    .blog-sec .container-fluid{
+
+        padding-right:15px;
+        padding-left: 15px;
+    
+      }
+    .blog-sec .content .tabs ul {
+       
+        padding: 20px;
+       
+       
+    }
+    .blog-sec .content .tabs ul li {
+
+        display:block; 
+        padding: 10px 0;
+        border-left:unset;
+
+    }
+    .blog-sec .content .tabs ul li a,
+    .dropdown-menu.show a{
+
+        text-align: center;
+        font-size: 1.1rem !important;
+     }
+     .dropdown-menu.show a{
+
+        font-weight: 600;
+      }
+      .dropdown-menu.show a:first-child{
+ 
+         display: none;
+ 
+      }
+     
+    .blog-sec .dropdown-menu.show {
+   
+        position: relative !important;
+        transform: unset !important;
+        border-radius:unset !important;
+        box-shadow: unset !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        border:unset !important;
+        background-clip:unset !important;
+        min-width:unset !important;
+    }
+
+    .blog-sec .col-lg-3,
+    .blog-sec .col-lg-6{
+
+        margin-bottom: 30px;
+    }
+    
+    .blog-sec .content .new-blogs .entry-level .col-lg-6{
+
+        margin-bottom: 0 !important;
+    }
+    .blog-sec-details .content .new-blogs .levels .inline {
+        
+        margin-left: 0;
+   }
+   .blog-sec-details .content .new-blogs .levels ul li {
+       
+       margin-bottom: 10px;
+    
+    }
+   .blog-sec-details .content .users-comments .inline{
+
+      display: table-cell;
+      padding-left: 10px;
+   }
+   .blog-sec-details .content .users-comments .inline:nth-child(2) {
+
+       float:unset;
+    }
+    .blog-sec .content .new-blogs .group-inline{
+
+        position: relative;
+        bottom: 0;
+    }
+    .blog-sec .users-comments .dropdown-menu.show {
+
+
+        display: none;
+   
+
+    }
+    /*--//blog--*/
+}
+@media screen and (max-width:375px) and (min-width:321px){
+
+     /*--Home--*/
+     .navbar-light .navbar-brand {
+       
+        margin: 0 auto;
+        text-align: center;
+    }
+    .navbar-light .navbar .nav-toggle{
+
+        display: block;
+    }
+    .navbar-light .navbar-left {
+        display: none;
+    }
+
+    .slide-sec .content h1 {
+        font-size: 1.6rem;
+    }
+
+    form .form-group {
+        margin-bottom: 1rem;
+       
+    }
+
+    .discoverjobs-sec .container-fluid{
+
+        padding-right:15px;
+        padding-left:15px;
+    
+      }
+      .discoverjobs-sec {
+
+        text-align:center; 
+
+    }
+
+    .principlejobs-sec iframe {
+        width: 100%;
+    }
+    .companyjobs-sec .jobs-content{
+
+        padding: 0;
+    
+    }
+    .agentsjobs-sec .col-lg-4,
+    .successstory-sec .col-lg-3,
+    footer  .col-lg-3,
+    footer  .col-lg-8,
+    footer  .col-lg-2{
+
+        margin-bottom: 30px
+
+
+    }
+    .agentsjobs-sec .content {
+       
+        width: 100%;
+    }
+    .agentsjobs-sec .content .inline {
+        display: block !important; 
+    
+    }
+    .countryjobs-sec .image {
+
+        width: 100%;
+    }
+      /*--//Home--*/
+      /*--search box--*/
+
+     .search-box form {
+       
+        width:95%;
+        
+    }
+    .navbar-search{
+
+        display: block;
+    }
+    /*--//search box--*/
+     /*--Login--*/
+     .login-sec .content form .inline {
+       
+        display: block;
+        text-align: right;
+    }
+
+    .login-sec .content form .line-1 {
+
+        float: unset;
+    }
+
+    .login-sec .content form .line-2{
+
+        float: unset;
+    }
+    .login-sec .content form .form-group:nth-child(3) {
+         margin-bottom:2rem !important;
+    }
+      /*--//Login--*/
+      /*--Register--*/
+    .register-sec .content form .file {
+
+
+        text-align:right;
+    }
+
+    .register-sec .submit-button {
+        width: 100%;
+    }
+
+    .register-sec .col-lg-1{
+
+        margin: 0 auto;
+        display: block;
+        text-align: center;
+
+
+    }
+    /*--//Register--*/
+    /*--search jobs--*/
+
+    .job-search-sec form .form-row {
+      
+        right: 0 ; 
+    }
+    .job-role-sec .col-lg-6{
+
+        margin-bottom: 30px;
+
+    }
+    .new-jobs-sec .row, 
+    .find-jobs-sec .row,
+     .agencies-job-sec .row, 
+     .search-country-sec .row, 
+     .get-cv-sec .row {
+        width: 100%;
+        margin: 0 auto;
+    }
+    .new-jobs-sec .col-lg-6,
+    .find-jobs-sec .col-lg-3,
+    .agencies-job-sec .col-lg-4{
+
+        margin-bottom: 30px;
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .new-jobs-sec .content ul li {
+        display: block !important;
+     }
+    .get-cv-sec .image{
+        margin: 0 auto;
+        text-align: center;
+    }
+    .get-cv-sec .col-lg-6, 
+    .get-cv-sec .col-lg-4 {
+        padding-left: 15px;
+        padding-right: 15px;
+        margin: 0 auto 30px;
+        display: block;
+        text-align: center;
+    }
+    .get-cv-sec .cv-text h5,
+    .get-cv-sec .cv-text span{
+      
+        text-align: center !important;
+    }
+    .get-cv-sec .cv-button {
+        
+        margin-top: 0 !important;
+        
+    }
+     /*--//search jobs--*/
+     /*--country jobs--*/
+     .country-jobs-sec .container-fluid {
+        padding-left: 20px; 
+        padding-right: 20px; 
+     }
+      
+
+      .city-jobs-sec .col-lg-3{
+
+        margin-bottom: 30px;
+       
+   
+    }
+    /*--//country jobs--*/
+     /*--adverise jobs--*/
+     .company-employee-sec form .form-group {
+        display:block;
+        margin:0 0 15px 0;
+        width: 100%;
+    }
+
+    .find-jobs-sec .content .p-text {
+        margin-top: 0;
+    }
+    .page-link{
+        padding: 10px 12px;
+    }
+    .advertise-jobs-sec .col-lg-2 {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    /*--//adverise jobs--*/
+    /*--cv services jobs--*/
+    .nav-tabs {
+       
+        width: 100%;
+        display: block;
+    }
+    
+      .nav-tabs .nav-link {
+      
+        padding: 15px 15px;
+    }
+    .nav-tabs .nav-item:nth-child(2), 
+    .nav-tabs .nav-item:nth-child(3),
+    .nav-tabs .nav-item:nth-child(4),
+    .nav-tabs .nav-item:nth-child(5) {
+
+        border-right:1px solid #F0880F;
+    }
+
+
+    .cv-write-content .col-md-12,
+    .help-contact-sec  .col-md-12{
+
+        margin-bottom: 30px;
+
+    }
+    .cv-write-sec .content form label small {
+
+        float: unset !important;
+        margin-top:0.5em;
+        padding-right:0;
+        display: block;
+    }
+    .carousel-control-prev-icon,
+    .carousel-control-next-icon{
+
+        height:50px;
+    }
+    .sidebar {
+
+        display: none;
+    }
+    .bottombar {
+
+      display: block;
+      
+    }
+    footer .footer-cv {
+        padding-bottom: 100px;
+    }
+   /*--//cv services jobs--*/
+   /*--cv  design--*/
+   .first-owljobs{
+
+    display: none;
+    
+     }
+   .second-owljobs{
+
+    display: block;
+
+    }
+    .second-owljobs .owl2 .image img {
+       
+        width: 70%;
+    }
+    .cv-work-sec ul li {
+         display:block;
+        margin:0 0 30px 0;
+    } 
+    /*--//cv design--*/
+    /*--cv message--*/
+    .wr-msg-sec .content .recommended-content .image img {
+
+        width:100%; 
+    }
+    /*--//cv message--*/
+    /*--blog--*/
+    .blog-sec .container-fluid{
+
+        padding-right:15px;
+        padding-left: 15px;
+    
+      }
+    .blog-sec .content .tabs ul {
+       
+        padding: 20px;
+      
+       
+    }
+    .blog-sec .content .tabs ul li {
+
+        display:block; 
+        padding: 10px 0;
+        border-left:unset;
+
+    }
+    .blog-sec .content .tabs ul li a,
+    .dropdown-menu.show a{
+
+        text-align: center;
+        font-size: 1.1rem !important;
+     }
+     .dropdown-menu.show a{
+
+        font-weight: 600;
+      }
+      .dropdown-menu.show a:first-child{
+ 
+         display: none;
+ 
+      }
+     
+    .blog-sec .dropdown-menu.show {
+   
+        position: relative !important;
+        transform: unset !important;
+        border-radius:unset !important;
+        box-shadow: unset !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        border:unset !important;
+        background-clip:unset !important;
+    }
+    .blog-sec .col-lg-3,
+    .blog-sec .col-lg-6{
+
+        margin-bottom: 30px;
+    }
+    
+    .blog-sec .content .new-blogs .entry-level .col-lg-6{
+
+        margin-bottom: 0 !important;
+    }
+    .blog-sec-details .content .new-blogs .levels .inline {
+        
+        margin-left: 0;
+   }
+   .blog-sec-details .content .new-blogs .levels ul li {
+       
+       margin-bottom: 10px;
+    
+    }
+   .blog-sec-details .content .users-comments .inline{
+
+      display: table-cell;
+      padding-left: 10px;
+   }
+   .blog-sec-details .content .users-comments .inline:nth-child(2) {
+
+       float:unset;
+    }
+    .blog-sec .content .new-blogs .group-inline{
+
+        position: relative;
+        bottom: 0;
+    }
+    .blog-sec .users-comments .dropdown-menu.show {
+
+
+        display: none;
+   
+
+    }
+    /*--//blog--*/
+    
+}
+@media screen and (max-width:425px) and (min-width:376px){
+
+       /*--Home--*/
+       .navbar-light .navbar-brand {
+       
+        margin: 0 auto;
+        text-align: center;
+    }
+    .navbar-light .navbar .nav-toggle{
+
+        display: block;
+    }
+    .navbar-light .navbar-left {
+        display: none;
+    }
+    .slide-sec .content h1 {
+        font-size: 1.8rem;
+    }
+
+    form .form-group {
+        margin-bottom: 1rem;
+       
+    }
+
+    .discoverjobs-sec .container-fluid{
+
+        padding-right:15px;
+        padding-left:15px;
+    
+      }
+      .discoverjobs-sec {
+
+        text-align:center; 
+
+    }
+
+    .principlejobs-sec iframe {
+        width: 100%;
+    }
+    .companyjobs-sec .jobs-content{
+
+        padding: 0;
+    
+    }
+   
+    .agentsjobs-sec .col-lg-4,
+    .successstory-sec .col-lg-3,
+    footer  .col-lg-3,
+    footer  .col-lg-8,
+    footer  .col-lg-2{
+
+        margin-bottom: 30px
+
+
+    }
+    .agentsjobs-sec .content {
+       
+        width: 100%;
+    }
+    .agentsjobs-sec .content .inline {
+        display: block !important; 
+    
+    }
+    .countryjobs-sec .image {
+
+        width: 100%;
+    }
+
+     /*--//Home--*/
+     /*--search box--*/
+
+     .search-box form {
+       
+        width:95%;
+        
+    }
+    .navbar-search{
+
+        display: block;
+    }
+    /*--//search box--*/
+     /*--Login--*/
+     .login-sec .content form .inline {
+       
+        display: block;
+        text-align: right;
+    }
+
+    .login-sec .content form .line-1 {
+
+        float: unset;
+    }
+
+    .login-sec .content form .line-2{
+
+        float: unset;
+    }
+    .login-sec .content form .form-group:nth-child(3) {
+         margin-bottom:2rem !important;
+    }
+      /*--//Login--*/
+      /*--Register--*/
+    .register-sec .content form .file {
+
+
+        text-align:right;
+    }
+
+    .register-sec .submit-button {
+        width: 100%;
+    }
+
+    .register-sec .col-lg-1{
+
+        margin: 0 auto;
+        display: block;
+        text-align: center;
+
+
+    }
+    /*--//Register--*/
+    /*--search jobs--*/
+
+    .job-search-sec form .form-row {
+      
+        right: 0 ; 
+    }
+    .job-role-sec .col-lg-6{
+
+        margin-bottom: 30px;
+
+    }
+    .new-jobs-sec .row, 
+    .find-jobs-sec .row,
+     .agencies-job-sec .row, 
+     .search-country-sec .row, 
+     .get-cv-sec .row {
+        width: 100%;
+        margin: 0 auto;
+    }
+    .new-jobs-sec .col-lg-6,
+    .find-jobs-sec .col-lg-3,
+    .agencies-job-sec .col-lg-4{
+
+        margin-bottom: 30px;
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .new-jobs-sec .content ul li {
+        display: block !important;
+     }
+
+    .get-cv-sec .image{
+        margin: 0 auto;
+        text-align: center;
+    }
+    .get-cv-sec .col-lg-6, 
+    .get-cv-sec .col-lg-4 {
+        padding-left: 15px;
+        padding-right: 15px;
+        margin: 0 auto 30px;
+        display: block;
+        text-align: center;
+    }
+    .get-cv-sec .cv-text h5,
+    .get-cv-sec .cv-text span{
+      
+        text-align: center !important;
+    }
+    .get-cv-sec .cv-button {
+        
+        margin-top: 0 !important;
+        
+    }
+     /*--//search jobs--*/
+     /*--country jobs--*/
+     .country-jobs-sec .container-fluid {
+        padding-left: 20px; 
+        padding-right: 20px; 
+     }
+      
+      .city-jobs-sec .col-lg-3{
+
+        margin-bottom: 30px;
+       
+   
+    }
+      /*--//country jobs--*/
+        /*--adverise jobs--*/
+       .company-employee-sec form .form-group {
+        display:block;
+        margin:0 0 15px 0;
+        width: 100%;
+    }
+
+      
+    .find-jobs-sec .content .p-text {
+        margin-top: 0;
+    }
+    .page-link {
+        padding: 12px 15px;
+    }
+    .advertise-jobs-sec .col-lg-2 {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    /*--//adverise jobs--*/
+    /*--cv services jobs--*/
+    .nav-tabs {
+       
+        width: 100%;
+        display: block;
+    }
+    
+      .nav-tabs .nav-link {
+      
+        padding: 15px 15px;
+    }
+    .nav-tabs .nav-item:nth-child(2), 
+    .nav-tabs .nav-item:nth-child(3),
+    .nav-tabs .nav-item:nth-child(4),
+    .nav-tabs .nav-item:nth-child(5) {
+
+        border-right:1px solid #F0880F;
+    }
+
+
+    .cv-write-content .col-md-12,
+    .help-contact-sec  .col-md-12{
+
+        margin-bottom: 30px;
+
+    }
+    .cv-write-sec .content form label small {
+
+        float: unset !important;
+        margin-top:0.5em;
+        padding-right:0;
+        display: block;
+        
+    }
+    .carousel-control-prev-icon,
+    .carousel-control-next-icon{
+
+        height:50px;
+    }
+    .sidebar {
+
+        display: none;
+    }
+    .bottombar {
+
+      display: block;
+      
+    }
+    footer .footer-cv {
+        padding-bottom: 100px;
+    }
+   /*--//cv services jobs--*/
+   /*--cv  design--*/
+   .first-owljobs{
+
+    display: none;
+    
+     }
+   .second-owljobs{
+
+    display: block;
+
+    }
+    .second-owljobs .owl2 .image img {
+       
+        width: 70%;
+    }
+    .cv-work-sec ul li {
+         display:block;
+        margin:0 0 30px 0;
+    } 
+    /*--//cv design--*/
+    /*--cv message--*/
+    .wr-msg-sec .content .recommended-content .image img {
+
+        width:100%; 
+    }
+    /*--//cv message--*/
+    /*--blog--*/
+    .blog-sec .container-fluid{
+
+        padding-right:15px;
+        padding-left: 15px;
+    
+      }
+    .blog-sec .content .tabs ul {
+       
+        padding: 20px;
+        
+       
+    }
+    .blog-sec .content .tabs ul li {
+
+        display:block; 
+        padding: 10px 0;
+        border-left:unset;
+
+    }
+    .blog-sec .content .tabs ul li a,
+    .dropdown-menu.show a{
+
+        text-align: center;
+        font-size: 1.1rem !important;
+     }
+     .dropdown-menu.show a{
+
+        font-weight: 600;
+      }
+      .dropdown-menu.show a:first-child{
+ 
+         display: none;
+ 
+      }
+     
+    
+    .blog-sec .dropdown-menu.show {
+   
+        position: relative !important;
+        transform: unset !important;
+        border-radius:unset !important;
+        box-shadow: unset !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        border:unset !important;
+
+    }
+    .blog-sec .col-lg-3,
+    .blog-sec .col-lg-6{
+
+        margin-bottom: 30px;
+    }
+    
+    .blog-sec .content .new-blogs .entry-level .col-lg-6{
+
+        margin-bottom: 0 !important;
+    }
+
+    .blog-sec-details .content .new-blogs .levels .inline {
+        
+        margin-left: 0;
+   }
+   .blog-sec-details .content .new-blogs .levels ul li {
+       
+       margin-bottom: 10px;
+    
+    }
+   .blog-sec-details .content .users-comments .inline{
+
+      display: table-cell;
+      padding-left: 10px;
+   }
+   .blog-sec-details .content .users-comments .inline:nth-child(2) {
+
+       float:unset;
+    }
+    .blog-sec .content .new-blogs .group-inline{
+
+        position: relative;
+        bottom: 0;
+    }
+    .blog-sec .users-comments .dropdown-menu.show {
+
+
+        display: none;
+   
+
+    }
+    /*--//blog--*/
+
+}
+@media screen and (max-width:575px) and (min-width:426px){
+
+     
+     /*--Home--*/
+     .navbar-light .navbar-brand {
+       
+        margin: 0 auto;
+        text-align: center;
+    }
+    .navbar-light .navbar .nav-toggle{
+
+        display: block;
+    }
+    .navbar-light .navbar-left {
+        display: none;
+    }
+
+    .slide-sec .content h1 {
+        font-size: 2rem;
+    }
+
+    form .form-group {
+        margin-bottom: 1rem;
+       
+    }
+
+    .discoverjobs-sec .container-fluid{
+
+        padding-right:15px;
+        padding-left:15px;
+    
+      }
+      .discoverjobs-sec {
+
+        text-align:center; 
+
+    }
+
+    .principlejobs-sec iframe {
+        width: 100%;
+    }
+    .companyjobs-sec .jobs-content{
+
+        padding: 0;
+    
+    }
+   
+    .agentsjobs-sec .col-lg-4,
+    .successstory-sec .col-lg-3,
+    footer  .col-lg-3,
+    footer  .col-lg-8,
+    footer  .col-lg-2{
+
+        margin-bottom: 30px
+
+
+    }
+    .agentsjobs-sec .content {
+       
+        width: 100%;
+    }
+    .agentsjobs-sec .content .inline {
+        display: block !important; 
+    
+    }
+    .countryjobs-sec .image {
+
+        width: 100%;
+    }
+
+    /*--//Home--*/
+    /*--search box--*/
+
+     .search-box form {
+       
+        width:95%;
+        
+    }
+    .navbar-search{
+
+        display: block;
+    }
+    /*--//search box--*/
+     /*--Login--*/
+    .login-sec .content form .inline {
+       
+        display: block;
+        text-align: right;
+    }
+
+    .login-sec .content form .line-1 {
+
+        float: unset;
+    }
+
+    .login-sec .content form .line-2{
+
+        float: unset;
+    }
+    .login-sec .content form .form-group:nth-child(3) {
+         margin-bottom:2rem !important;
+    }
+      /*--//Login--*/
+      /*--Register--*/
+    .register-sec .content form .file {
+
+
+        text-align:right;
+    }
+
+    .register-sec .submit-button {
+        width: 100%;
+    }
+
+    .register-sec .col-lg-1{
+
+        margin: 0 auto;
+        display: block;
+        text-align: center;
+
+
+    }
+    /*--//Register--*/
+    /*--search jobs--*/
+
+    .job-search-sec form .form-row {
+      
+        right: 0 ; 
+    }
+    .job-role-sec .col-lg-6{
+
+        margin-bottom: 30px;
+
+    }
+    .new-jobs-sec .row, 
+    .find-jobs-sec .row,
+     .agencies-job-sec .row, 
+     .search-country-sec .row, 
+     .get-cv-sec .row {
+        width: 100%;
+        margin: 0 auto;
+    }
+    .new-jobs-sec .col-lg-6,
+    .find-jobs-sec .col-lg-3,
+    .agencies-job-sec .col-lg-4{
+
+        margin-bottom: 30px;     
+        padding-left: 0;
+        padding-right: 0;
+     
+    }
+   
+    
+    .new-jobs-sec .content ul li {
+        display: block !important;
+     }
+    .get-cv-sec .image{
+        margin: 0 auto;
+        text-align: center;
+    }
+    .get-cv-sec .col-lg-6, 
+    .get-cv-sec .col-lg-4 {
+        padding-left: 15px;
+        padding-right: 15px;
+        margin: 0 auto 30px;
+        display: block;
+        text-align: center;
+    }
+    .get-cv-sec .cv-text h5,
+    .get-cv-sec .cv-text span{
+      
+        text-align: center !important;
+    }
+    .get-cv-sec .cv-button {
+        
+        margin-top: 0 !important;
+        
+    }
+     /*--//search jobs--*/
+     /*--country jobs--*/
+
+     .country-jobs-sec .container-fluid {
+        padding-left: 20px; 
+        padding-right: 20px; 
+     }
+      
+      .city-jobs-sec .col-lg-3{
+
+        margin-bottom: 30px;
+       
+    }
+      /*--//country jobs--*/
+      /*--adverise jobs--*/
+       .company-employee-sec form .form-group {
+        display:block;
+        margin:0 0 15px 0;
+        width: 100%;
+    }
+
+    .find-jobs-sec .content .p-text {
+        margin-top: 0;
+    }
+    .page-link {
+        padding: 12px 15px;
+    }
+    .advertise-jobs-sec .col-lg-2 {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    /*--//adverise jobs--*/
+    /*--cv services jobs--*/
+    .nav-tabs {
+       
+        width: 100%;
+        display: block;
+    }
+    
+      .nav-tabs .nav-link {
+      
+        padding: 15px 15px;
+    }
+    .nav-tabs .nav-item:nth-child(2), 
+    .nav-tabs .nav-item:nth-child(3),
+    .nav-tabs .nav-item:nth-child(4),
+    .nav-tabs .nav-item:nth-child(5) {
+
+        border-right:1px solid #F0880F;
+    }
+
+
+    .cv-write-content .col-md-12,
+    .help-contact-sec  .col-md-12{
+
+        margin-bottom: 30px;
+
+    }
+    .cv-write-sec .content form label small {
+
+        float: unset !important;
+        margin-top: 0.5em;
+        padding-right:0;
+        display: block;
+
+    }
+    .carousel-control-prev-icon,
+    .carousel-control-next-icon{
+
+        height:50px;
+    }
+
+    .sidebar {
+
+        display: none;
+    }
+    .bottombar {
+
+      display: block;
+      
+    }
+    footer .footer-cv {
+        padding-bottom: 100px;
+    }
+   /*--//cv services jobs--*/
+    /*--cv  design--*/
+    .first-owljobs{
+
+        display: none;
+        
+         }
+       .second-owljobs{
+    
+        display: block;
+    
+        }
+        .second-owljobs .owl2 .image img {
+           
+            width: 70%;
+        }
+        .cv-work-sec ul li {
+             display:block;
+            margin:0 0 30px 0;
+        } 
+        /*--//cv design--*/
+        /*--cv message--*/
+        .wr-msg-sec .content .recommended-content .image img {
+
+            width:100%; 
+        }
+        /*--//cv message--*/
+        /*--blog--*/
+    .blog-sec .container-fluid{
+
+        padding-right:15px;
+        padding-left: 15px;
+    
+      }
+    .blog-sec .content .tabs ul {
+       
+        padding: 20px;
+      
+       
+    }
+    .blog-sec .content .tabs ul li {
+
+        display:block; 
+        padding: 10px 0;
+        border-left:unset;
+
+    }
+    .blog-sec .content .tabs ul li a,
+    .dropdown-menu.show a{
+
+        text-align: center;
+        font-size: 1.1rem !important;
+     }
+     .dropdown-menu.show a{
+
+        font-weight: 600;
+      }
+      .dropdown-menu.show a:first-child{
+ 
+         display: none;
+ 
+      }
+     
+    .blog-sec .dropdown-menu.show {
+   
+        position: relative !important;
+        transform: unset !important;
+        border-radius:unset !important;
+        box-shadow: unset !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        border:unset !important;
+        background-clip:unset !important;
+    }
+
+    .blog-sec .col-lg-3,
+    .blog-sec .col-lg-6{
+
+        margin-bottom: 30px;
+    }
+    .blog-sec .content .new-blogs .entry-level .col-lg-6 {
+        
+        margin-bottom: 0 !important;
+    }
+    .blog-sec-details .content .new-blogs .levels .inline {
+        
+        margin-left: 0;
+   }
+    .blog-sec .content .new-blogs .group-inline{
+
+        position: relative;
+        bottom: 0;
+    }
+    /*--//blog--*/
+    .blog-sec .users-comments .dropdown-menu.show {
+
+
+        display: none;
+   
+
+    }
+
+}
+@media screen and (max-width:768px) and (min-width:576px){
+
+
+     /*--Home--*/
+     .navbar-light .navbar-brand {
+       
+        margin: 0 auto;
+        text-align: center;
+    }
+    .navbar-light .navbar .nav-toggle{
+
+        display: block;
+    }
+    .navbar-light .navbar-left {
+        display: none;
+    }
+
+    form .form-group {
+        margin-bottom: 1rem;
+       
+    }
+
+    .discoverjobs-sec .container-fluid{
+
+        padding-right:15px;
+        padding-left:15px;
+    
+      }
+      .discoverjobs-sec {
+
+        text-align:center; 
+
+    }
+
+    .principlejobs-sec iframe {
+        width: 100%;
+    }
+    .companyjobs-sec .jobs-content{
+
+        padding: 0;
+    
+    }
+    .agentsjobs-sec .col-lg-4,
+    .successstory-sec .col-lg-3,
+    footer  .col-lg-3,
+    footer  .col-lg-8,
+    footer  .col-lg-2{
+
+        margin-bottom: 30px
+
+
+    }
+    .agentsjobs-sec .content {
+       
+        width: 100%;
+    }
+    .countryjobs-sec .image {
+
+        width: 100%;
+    }
+
+   
+
+    /*--//Home--*/
+    /*--search box--*/
+
+    .search-box form {
+       
+        width:95%;
+        
+    }
+    .navbar-search{
+
+        display: block;
+    }
+    /*--//search box--*/
+    /*--Register--*/
+    .register-sec .content form .file {
+
+
+        text-align:right;
+    }
+
+    .register-sec .submit-button {
+        width: 100%;
+    }
+
+    .register-sec .col-lg-1{
+
+        margin: 0 auto;
+        display: block;
+        text-align: center;
+
+
+    }
+    /*--//Register--*/
+    /*--search jobs--*/
+
+    .job-search-sec form .form-row {
+      
+        right: 0 ; 
+    }
+    .job-role-sec .col-lg-6{
+
+        margin-bottom: 30px;
+
+    }
+    .new-jobs-sec .row, 
+    .find-jobs-sec .row,
+     .agencies-job-sec .row, 
+     .search-country-sec .row, 
+     .get-cv-sec .row {
+        width: 100%;
+        margin: 0 auto;
+    }
+    .new-jobs-sec .col-lg-6,
+    .find-jobs-sec .col-lg-3,
+    .agencies-job-sec .col-lg-4{
+
+        margin-bottom: 30px;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .get-cv-sec .image {
+      
+        margin: 0 auto;
+        text-align: center;
+    }
+    .get-cv-sec .col-lg-6, 
+    .get-cv-sec .col-lg-4 {
+        padding-left: 15px;
+        padding-right: 15px;
+        margin: 0 auto 30px;
+        display: block;
+        text-align: center;
+    }
+    .get-cv-sec .cv-text h5,
+    .get-cv-sec .cv-text span{
+      
+        text-align: center !important;
+    }
+    .get-cv-sec .cv-button {
+        
+        margin-top: 0 !important;
+        
+    }
+     /*--//search jobs--*/
+       /*--country jobs--*/
+       .country-jobs-sec .container-fluid {
+        padding-left: 20px; 
+        padding-right: 20px; 
+     }
+       .city-jobs-sec .col-lg-3{
+
+        margin-bottom: 30px;
+       
+    }
+      /*--//country jobs--*/
+       /*--adverise jobs--*/
+       .company-employee-sec form .form-group {
+        display:block;
+        margin:0 0 15px 0;
+        width: 100%;
+    }
+    
+    .find-jobs-sec .content .p-text {
+        margin-top: 0;
+    }
+    /*--//adverise jobs--*/
+
+      /*--cv services jobs--*/
+      .nav-tabs {
+       
+        width: 100%;
+    }
+      .nav-tabs .nav-link {
+      
+        padding: 15px 15px;
+    }
+
+    .cv-write-content .col-md-12,
+    .help-contact-sec  .col-md-12{
+
+        margin-bottom: 30px;
+
+    }
+    .sidebar {
+
+        display: none;
+    }
+    .bottombar {
+
+      display: block;
+      
+    }
+    footer .footer-cv {
+        padding-bottom: 100px;
+    }
+   /*--//cv services jobs--*/
+    /*--cv  design--*/
+    .first-owljobs{
+
+        display: none;
+        
+         }
+       .second-owljobs{
+    
+        display: block;
+    
+        }
+        .second-owljobs .owl2 .image img {
+           
+            width: 70%;
+        }
+    
+        
+        /*--//cv design--*/
+        /*--cv message--*/
+        .wr-msg-sec .content .recommended-content .image img {
+
+         width:100%; 
+         }
+         /*--//cv message--*/
+           /*--cv evalution--*/
+     .eval-cv-sec .nav-tabs .nav-link {
+        
+        padding: 15px 30px;
+    }
+    /*--//cv evalution--*/
+    /*--blog--*/
+    .blog-sec .container-fluid{
+
+        padding-right:15px;
+        padding-left: 15px;
+    
+      }
+    .blog-sec .content .tabs ul {
+       
+        padding: 20px;
+      
+       
+    }
+    .blog-sec .content .tabs ul li {
+
+        display:block; 
+        padding: 10px 0;
+        border-left:unset;
+
+    }
+    .blog-sec .content .tabs ul li a,
+    .dropdown-menu.show a{
+
+        text-align:center;
+        font-size: 1.1rem !important;
+     }
+     .dropdown-menu.show a{
+
+        font-weight: 600;
+      }
+      .dropdown-menu.show a:first-child{
+ 
+         display: none;
+ 
+      }
+     
+    
+    .blog-sec .dropdown-menu.show {
+   
+        position: relative !important;
+        transform: unset !important;
+        border-radius:unset !important;
+        box-shadow: unset !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        border:unset !important;
+        background-clip:unset !important;
+
+    }
+    .blog-sec .col-lg-3,
+    .blog-sec .col-lg-6{
+
+        margin-bottom: 30px;
+    }
+    .blog-sec .content .new-blogs .entry-level .col-lg-6 {
+        
+        margin-bottom: 0 !important;
+    }
+    .blog-sec-details .content .new-blogs .levels .inline {
+
+         margin-left: 0;
+    }
+    
+    .blog-sec .content .new-blogs .group-inline{
+
+        position: relative;
+        bottom: 0;
+    }
+    .blog-sec .users-comments .dropdown-menu.show {
+
+
+        display: none;
+   
+
+    }
+    /*--//blog--*/
+   
+}
+@media screen and (max-width:991px) and (min-width:769px){
+
+    /*--Home--*/
+    .navbar-light .navbar-brand {
+       
+        margin: 0 auto;
+        text-align: center;
+    }
+    .navbar-light .navbar .nav-toggle{
+
+        display: block;
+    }
+    .navbar-light .navbar-left {
+        display: none;
+    }
+
+    form .form-group {
+        margin-bottom: 1rem;
+       
+    }
+
+    .discoverjobs-sec .container-fluid{
+
+        padding-right:15px;
+        padding-left:15px;
+    
+      }
+      .discoverjobs-sec {
+
+        text-align:center; 
+
+    }
+
+    .principlejobs-sec iframe {
+        width: 100%;
+    }
+    .companyjobs-sec .jobs-content{
+
+        padding: 0;
+    
+    }
+    .agentsjobs-sec .col-lg-4,
+    .successstory-sec .col-lg-3,
+    footer  .col-lg-3,
+    footer  .col-lg-8,
+    footer  .col-lg-2{
+
+        margin-bottom: 30px
+
+
+    }
+    .agentsjobs-sec .content {
+       
+        width: 100%;
+    }
+    .countryjobs-sec .image {
+
+        width: 100%;
+    }
+
+  
+    /*--//Home--*/
+    /*--search box--*/
+
+    .search-box form {
+       
+        width:95%;
+        
+    }
+    .navbar-search{
+
+        display: block;
+    }
+    /*--//search box--*/
+    /*--Register--*/
+    .register-sec .content form .file {
+
+
+        text-align:right;
+    }
+
+    .register-sec .submit-button {
+        width: 100%;
+    }
+
+    .register-sec .col-lg-1{
+
+        margin: 0 auto;
+        display: block;
+        text-align: center;
+
+
+    }
+   
+    /*--//Register--*/
+    /*--search jobs--*/
+
+    .job-search-sec form .form-row {
+      
+        right: 0 ; 
+    }
+    .job-role-sec .col-lg-6{
+
+        margin-bottom: 30px;
+
+    }
+    .new-jobs-sec .row, 
+    .find-jobs-sec .row,
+     .agencies-job-sec .row, 
+     .search-country-sec .row, 
+     .get-cv-sec .row {
+        width: 100%;
+        margin: 0 auto;
+    }
+    .new-jobs-sec .col-lg-6,
+    .find-jobs-sec .col-lg-3,
+    .agencies-job-sec .col-lg-4{
+
+        margin-bottom: 30px;
+        padding-left: 0;
+        padding-right: 0;
+       
+    }
+  
+   
+    .get-cv-sec .image  {
+       
+        margin: 0 auto;
+        text-align: center;
+    }
+    .get-cv-sec .col-lg-6, 
+    .get-cv-sec .col-lg-4 {
+        padding-left: 15px;
+        padding-right: 15px;
+        margin: 0 auto 30px;
+        display: block;
+        text-align: center;
+    }
+    .get-cv-sec .cv-text h5,
+    .get-cv-sec .cv-text span{
+      
+        text-align: center !important;
+    }
+    .get-cv-sec .cv-button {
+        
+        margin-top: 0 !important;
+        
+    }
+     /*--//search jobs--*/
+
+      /*--country jobs--*/
+      .country-jobs-sec .container-fluid {
+        padding-left: 20px; 
+        padding-right: 20px; 
+      }
+      /*--//country jobs--*/
+      /*--adverise jobs--*/
+
+      .company-employee-sec form .form-group {
+        display:block;
+        margin:0 0 15px 0;
+        width: 100%;
+    }
+    .find-jobs-sec .content .p-text {
+        margin-top: 0;
+    }
+    /*--//adverise jobs--*/
+
+      /*--cv services jobs--*/
+      .nav-tabs {
+       
+        width: 100%;
+    }
+      .nav-tabs .nav-link {
+      
+        padding: 15px 15px;
+    }
+
+    .cv-write-content .col-md-12,
+    .help-contact-sec  .col-md-12{
+
+        margin-bottom: 30px;
+
+    }
+    .sidebar {
+
+        display: none;
+    }
+    .bottombar {
+
+      display: block;
+
+    }
+    footer .footer-cv {
+        padding-bottom: 100px;
+    }
+   /*--//cv services jobs--*/
+   /*--cv  design--*/
+   .first-owljobs{
+
+    display: none;
+    
+     }
+   .second-owljobs{
+
+    display: block;
+
+    }
+    .second-owljobs .owl2 .image img {
+       
+        width: 70%;
+    }
+
+    /*--//cv design--*/
+    /*--cv message--*/
+   .wr-msg-sec .content .recommended-content .image img {
+    width:100%; 
+   }
+    /*--//cv message--*/
+     /*--cv evalution--*/
+     .eval-cv-sec .nav-tabs .nav-link {
+        
+        padding: 15px 30px;
+    }
+    /*--//cv evalution--*/
+    /*--blog--*/
+    .blog-sec .container-fluid{
+
+        padding-right:15px;
+        padding-left: 15px;
+    
+      }
+    .blog-sec .content .tabs ul {
+       
+        padding: 20px;
+       
+       
+    }
+    .blog-sec .content .tabs ul li {
+
+        display:block; 
+        padding: 10px 0;
+        border-left:unset;
+
+    }
+    .blog-sec .content .tabs ul li a,
+    .dropdown-menu.show a{
+
+        text-align: center;
+        font-size: 1.1rem !important;
+     }
+     .dropdown-menu.show a{
+
+       font-weight: 600;
+     }
+     .dropdown-menu.show a:first-child{
+
+        display: none;
+
+     }
+    
+    .blog-sec .dropdown-menu.show {
+   
+        position: relative !important;
+        transform: unset !important;
+        border-radius:unset !important;
+        box-shadow: unset !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        border:unset !important;
+        background-clip:unset !important;
+
+    }
+    .blog-sec .col-lg-3,
+    .blog-sec .col-lg-6{
+
+        margin-bottom: 30px;
+    }
+   
+    .blog-sec .content .new-blogs .entry-level .col-lg-6{
+
+        margin-bottom: 0 !important;
+    }
+    .blog-sec .content .new-blogs .group-inline{
+
+        position: relative;
+        bottom: 0;
+    }
+    
+    .blog-sec .users-comments .dropdown-menu.show {
+
+
+        display: none;
+   
+
+    }
+    /*--//blog--*/
+   
+}
+@media screen and (max-width:1024px) and (min-width:992px){
+
+    /*--Home--*/
+    .navbar-light .navbar-right {
+        margin-right: 10px;
+    }
+
+    
+    .navbar-right .nav-item>.nav-link {
+        padding: 28px 9px;
+    }
+    .navbar-light .navbar-nav .li-3>.nav-link,
+    .navbar-light .navbar-nav .li-4>.nav-link,
+    .navbar-light .navbar-nav .li-5>.nav-link{
+       
+       display: none;
+    }
+    .navbar-light .navbar-nav .li-6>.nav-link{
+
+
+        display: block;
+    
+    
+    }
+    
+
+    .navbar-light .navbar-left .nav-item .login-button,
+    .navbar-light .navbar-left .nav-item .register-button {
+       
+        margin: 0 10px 0 5px;
+    }
+    .navbar-nav .sub-menu .nav-item .nav-link{
+
+        font-size: 1rem !important;
+    }
+    form .submit {
+        font-size: .9rem;
+    }
+    .discoverjobs-sec .container-fluid{
+
+        padding-right:15px;
+        padding-left:15px;
+    
+    }
+    .principlejobs-sec iframe {
+
+        width: 100%;
+    }
+
+
+
+    /*--//Home--*/
+    /*--search box--*/
+
+    .search-box form {
+       
+        width:95%;
+        
+    }
+    /*--//search box--*/
+
+   /*--country jobs--*/
+   .country-jobs-sec .container-fluid {
+       padding-left: 20px; 
+       padding-right: 20px; 
+    }
+    .country-jobs-sec .image .overlay span {
+        height: 40px;
+        transform: translateY(4px);
+    }
+      /*--//country jobs--*/
+     /*--adverise jobs--*/
+
+      .company-employee-sec form .form-group {
+        display:block;
+        margin:0 0 15px 0;
+        width: 100%;
+    }
+    .find-jobs-sec .row{
+
+        width:100%;
+    }
+    
+    /*--//adverise jobs--*/
+   
+    /*--cv services jobs--*/
+
+    .nav-tabs .nav-link {
+      
+        padding: 15px 40px;
+    }
+     /*--//cv services jobs--*/
+
+    /*--cv message--*/
+   .wr-msg-sec .content .recommended-content .image img {
+    width:100%; 
+   }
+    /*--//cv message--*/
+    /*--cv evalution--*/
+    .eval-cv-sec .nav-tabs .nav-link {
+
+        padding: 15px 50px;
+    }
+    /*--//cv evalution--*/
+    .blog-sec .content .new-blogs .releated-post .nw-head {
+      
+        font-size: 16px;
+    }
+   
+      
+}
+/*--//media query--*/
